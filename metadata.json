@@ -1,0 +1,7 @@
+{
+  "name": "EvoloEdge: AI Career Guide",
+  "description": "An AI-powered career and skills advisor to help you navigate your professional journey. Get personalized career path recommendations, practice for interviews, build your resume, and track your progress all in one place.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
